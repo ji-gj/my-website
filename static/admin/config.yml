@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: main
+  branch: master
   repo: https://github.com/ji-gj/my-website
 
 # These lines should *not* be indented
